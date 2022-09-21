@@ -1,0 +1,6 @@
+framework module Pods_pwa_shell {
+  umbrella header "Pods-pwa-shell-umbrella.h"
+
+  export *
+  module * { export * }
+}
